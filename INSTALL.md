@@ -39,7 +39,7 @@ Optional packages:
  ---------------------|--------------------------|------------------------------------------------
  Chromecast           | `--enable-chromecast`    | libgnutls*-dev libprotobuf-c-dev
  Spotify (built-in)   | `--disable-spotify`      | libprotobuf-c-dev
- Spotify (libspotify) | `--enable-libspotify`    | libspotify-dev
+ Spotify (libspotify) | `--enable-spotify`       | libspotify-dev
  Player web UI        | `--disable-webinterface` | libwebsockets-dev
  Live web UI          | `--with-libwebsockets`   | libwebsockets-dev
  Pulseaudio           | `--with-pulseaudio`      | libpulse-dev
